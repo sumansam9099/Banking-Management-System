@@ -45,7 +45,7 @@ This project serves as a practical demonstration of database concepts such as re
 
 => Database Initialization
 
-Create the database (Project) and tables (Account and Transaction).
+  Create the database (Project) and tables (Account and Transaction).
 
 Define constraints (primary keys, foreign keys, NOT NULL, ENUMs) to ensure data integrity.
      
