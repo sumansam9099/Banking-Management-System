@@ -45,29 +45,29 @@ This project serves as a practical demonstration of database concepts such as re
 
 => Database Initialization
 
-     Create the database (bank) and tables (Account and Transaction).
+     Create the database (Project) and tables (Account and Transaction).
      Define constraints (primary keys, foreign keys, NOT NULL, ENUMs) to ensure data integrity.
      
 => Data Insertion
 
-     Insert sample customer accounts into the Account table.
-     Insert sample transactions (deposits and withdrawals) into the Transaction table.
+Insert sample customer accounts into the Account table.
+Insert sample transactions (deposits and withdrawals) into the Transaction table.
      
 => Transaction Handling
 
-     Users or bank staff add a new transaction.
-     Each transaction is linked to a valid account via a foreign key.
+Users or bank staff add a new transaction.
+Each transaction is linked to a valid account via a foreign key.
      
 => Information Retrieval
 
-     Users can run queries to view account details, transactions, and summaries.
-     Stored procedures can generate mini statements (last 5 transactions).
-     Views provide summarized account information (total deposits, withdrawals, balance).
+ Users can run queries to view account details, transactions, and summaries.
+ Stored procedures can generate mini statements (last 5 transactions).
+ Views provide summarized account information (total deposits, withdrawals, balance).
      
 => Analysis and Reporting
 
-     Execute aggregate queries to calculate totals, averages, or other analytics.
-     Join queries combine account and transaction data for comprehensive reporting.
+Execute aggregate queries to calculate totals, averages, or other analytics.
+Join queries combine account and transaction data for comprehensive reporting.
      
 => Maintenance and Updates
 
